@@ -46,11 +46,12 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PyTorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=for-the-badge&logo=keras&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=white&color=6aa6f8)
 
 ## &#x1f4c8; GitHub Stats
 
