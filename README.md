@@ -55,7 +55,7 @@ me.say_hi()
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/KhanhTungTran/KhanhTungTran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhTungTran&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Tung's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhTungTran&show_icons=true&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Tung's GitHub Stats" />
 </a>
 
 <a href="https://github.com/KhanhTungTran/KhanhTungTran">
