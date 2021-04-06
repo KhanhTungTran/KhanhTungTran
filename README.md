@@ -14,7 +14,7 @@ class DataScientist: # More like my goal than my current title :)
         self.knowledge_base = [
             "Machine Learning",
             "Deep Learning",
-            "Software Enginnering",
+            "Software Engineering",
         ]
         self.knowledge_base.insert(0, "Computer Vision")
 
