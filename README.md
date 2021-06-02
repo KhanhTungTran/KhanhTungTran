@@ -8,7 +8,7 @@
 class DataScientist: # More like my goal than my current title :)
     def __init__(self):
         self.name = "Tung Tran" # My first name actually is Tung (not Khanh or Tran)
-        self.role = "Teaching Assistant | Freelancer | AI Intern | Student"
+        self.role = "Teaching Assistant | AI Resident | Freelancer | Student"
         self.location = "Ho Chi Minh City"
         self.github = "https://github.com/KhanhTungTran"
         self.knowledge_base = [
